@@ -1,0 +1,41 @@
+* {
+    font-family: sans-serif;
+    color: #e0dad9;
+    text-decoration: none;
+}
+
+body {
+    margin: 0;
+    background-color: #232F33;
+}
+
+.block {
+    display: inherit;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #37494f;
+    border-radius: 5px;
+    box-shadow: 5px 5px 7px #323030;
+    padding: 2%;
+    margin: 25px 25px;
+    margin-top: 2%;
+}
+.table {
+    margin: auto auto;
+    padding-left: 2%;
+    width: 70%;
+    line-height: 1.5;
+    font-size: 1.2em;
+    color: #323030;
+}
+.table_title {
+    font-size: 1.4em;
+    font-weight: 700;
+    color: #6c2d2c;
+}
+
+td {
+    color: lightgray;
+    padding-left: 10px;
+    text-align: justify;
+}

@@ -8,3 +8,6 @@ body {
     margin: 0;
     background-color: #232F33;
 }
+.remove-all-styles {
+    all: revert;
+}
