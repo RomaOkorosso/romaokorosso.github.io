@@ -1,0 +1,52 @@
+.h1 {
+    padding-top: 20px;
+    color: chocolate;
+    text-align: center;
+    font-family: Roboto monospace;
+    text-transform: uppercase;
+}
+
+.line {
+    border-color: chocolate;
+    margin-top: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.text_subtitle {
+    color: chocolate;
+    font-family: Roboto monospace;
+    padding-left: 29px;
+    text-transform: uppercase;
+    margin-top: 75px;
+
+}
+
+.inline_text {
+    color: #f1ac7b;
+    font-family: Roboto monospace;
+    display: inline;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.text {
+    color: #f1ac7b;
+    font-family: Roboto monospace;
+    padding-left: 32px;
+}
+
+.just_text {
+    color: #f1ac7b;
+    font-family: Roboto monospace;
+}
+
+.list > li{
+    color: #f1ac7b;
+    font-family: Roboto monospace;
+    margin-left: 32px;}
+
+/** {*/
+/*    font-family: sans-serif;*/
+/*    color: #414141;*/
+/*}*/

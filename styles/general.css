@@ -11,3 +11,9 @@ body {
 .remove-all-styles {
     all: revert;
 }
+
+.footer {
+    margin-top: 25px;
+    height: 75px;
+    background-color: #37494f;
+}
